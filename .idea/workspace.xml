@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a5128a-d785-4bfe-b777-424b76db9280" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixit/spiders/Category.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixit/spiders/SubCategory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fixit/spiders/ProductDetails.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DOWNLOAD_DELAY</find>
+      <find>product-image</find>
+      <find>https://www.fixit.com.bd/wp-content/uploads/2018/05/Plus-Head-PH1-X-80mmL-4-Inch-Insulated-Screwdriver-Hans-Brand-300x300.jpg</find>
+      <find>yit-wcan-container</find>
+      <find>products</find>
+      <find>pcols-lg-3</find>
+      <find>https://www.fixit.com.bd/product-category/tools-hardware/hand-tools/</find>
+      <find>https://www.fixit.com.bd/product-category/tools-hardware/air-tools/</find>
+      <find>https://www.fixit.com.bd/product-category/tools-hardware/chain-rope/</find>
+      <find>https://www.fixit.com.bd/product-category/tools-hardware/power-tool-accessories/</find>
+      <find>kitchen</find>
+      <find>cleaning/cleaning-tools-supplies/</find>
+      <find>cleaning/household-cleaners/</find>
+      <find>cleaning/air-care/</find>
+      <find>cleaning/personal-care/</find>
+      <find>cleaning/trash-recycling/</find>
+      <find>electrical/circuit-breakers-panels</find>
+      <find>electrical/fan-regulators-dimmers/</find>
+      <find>Duct</find>
+      <find>product-categories</find>
+      <find>https://www.fixit.com.bd/product-category/appliance/</find>
+      <find>A23</find>
+      <find>product-images</find>
+      <find>description</find>
+      <find>entry-summary</find>
+      <find>Over 14,000 type of items</find>
+      <find>https://www.fixit.com.bd/product-category/electrical/</find>
+      <find>errback</find>
+      <find>Deep-Socket-Tolsen-Brand-16564-600x600.jpg</find>
+      <find>sub-category-v2</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fixit/spiders/quotes_spider.py" />
+        <option value="$PROJECT_DIR$/quotes.json" />
+        <option value="$PROJECT_DIR$/categories.json" />
+        <option value="$PROJECT_DIR$/product.json" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/fixit/spiders/categories_spider.py" />
+        <option value="$PROJECT_DIR$/fixit/spiders/product_spider.py" />
+        <option value="$PROJECT_DIR$/test.json" />
+        <option value="$PROJECT_DIR$/fixit/spiders/test.py" />
+        <option value="$PROJECT_DIR$/fixit/spiders/test2.py" />
+        <option value="$PROJECT_DIR$/fixit/spiders/ProductCategoryUrl.py" />
+        <option value="$PROJECT_DIR$/category-url.json" />
+        <option value="$PROJECT_DIR$/fixit/spiders/SubCategory.py" />
+        <option value="$PROJECT_DIR$/fixit/spiders/ProductDetails-v1.py" />
+        <option value="$PROJECT_DIR$/error.log" />
+        <option value="$PROJECT_DIR$/fixit/spiders/Category.py" />
+        <option value="$PROJECT_DIR$/error.txt" />
+        <option value="$PROJECT_DIR$/fixit/spiders/ProductDetails-v2.py" />
+        <option value="$PROJECT_DIR$/v3/product-details.json" />
+        <option value="$PROJECT_DIR$/product-details.json" />
+        <option value="$PROJECT_DIR$/v3/product-details-v3.csv" />
+        <option value="$PROJECT_DIR$/fixit/spiders/ProductDetails-v3.py" />
+        <option value="$PROJECT_DIR$/fixit/settings.py" />
+        <option value="$PROJECT_DIR$/fixit/spiders/ProductDetails.py" />
+        <option value="$PROJECT_DIR$/v2/sub-category-filtered-v2.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1022" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fixit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixit" type="462c0819:PsiDirectoryNode" />
+              <item name="v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/v2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v2" />
+      <recent name="$PROJECT_DIR$/fixit/spiders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v3" />
+      <recent name="$PROJECT_DIR$/v2" />
+      <recent name="$PROJECT_DIR$/v1" />
+      <recent name="$PROJECT_DIR$/output" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a5128a-d785-4bfe-b777-424b76db9280" name="Default Changelist" comment="" />
+      <created>1555830277534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555830277534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1022" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1515625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32822084" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.52287585" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JuliaSciView" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quotes.jl" />
+    <entry file="file://$PROJECT_DIR$/quotes.json" />
+    <entry file="file://$PROJECT_DIR$/sub-sub-categories-.json" />
+    <entry file="file://$PROJECT_DIR$/sub-categories.json" />
+    <entry file="file://$PROJECT_DIR$/fixit/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/lib/python3.6/site-packages/scrapy/http/response/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.json" />
+    <entry file="file://$PROJECT_DIR$/v0/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25466">
+          <caret line="1498" column="40" selection-start-line="1498" selection-start-column="24" selection-end-line="1498" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="116" selection-start-line="47" selection-start-column="115" selection-end-line="47" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-url.json" />
+    <entry file="file://$PROJECT_DIR$/product-category-url.csv" />
+    <entry file="file://$PROJECT_DIR$/v0/sub-categories.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="109" lean-forward="true" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.csv" />
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/categories_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category-url-v1.json" />
+    <entry file="file://$PROJECT_DIR$/paint.html" />
+    <entry file="file://$PROJECT_DIR$/category-url.json" />
+    <entry file="file://$PROJECT_DIR$/v1/product-details-v1.csv" />
+    <entry file="file://$PROJECT_DIR$/product.html" />
+    <entry file="file://$PROJECT_DIR$/fixit/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/product-details-v1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <caret line="6" column="383" selection-start-line="6" selection-start-column="383" selection-end-line="6" selection-end-column="391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/category-url-v1.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/product-url-v1.csv">
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v0/categories.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/sub-category-v2.json" />
+    <entry file="file://$PROJECT_DIR$/v2/category.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/product-details.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/ProductDetails-v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#99#65996#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/ProductDetails-v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/product_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="129" column="93" selection-start-line="129" selection-start-column="83" selection-end-line="129" selection-end-column="93" />
+          <folding>
+            <element signature="e#90#10773#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attribute_arr.txt" />
+    <entry file="file://$PROJECT_DIR$/v3/product-details.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/product-details.json" />
+    <entry file="file://$PROJECT_DIR$/v3/product-details-v3.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="280">
+          <caret line="7690" column="10" lean-forward="true" selection-start-line="7691" selection-start-column="530" selection-end-line="7691" selection-end-column="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/ProductDetails-v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-05-05.ndjson" />
+    <entry file="file://$PROJECT_DIR$/2019-04-23.ndjson" />
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/fixit-sub-category-v2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="87" lean-forward="true" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+          <folding>
+            <element signature="e#417#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-details.csv" />
+    <entry file="file://$PROJECT_DIR$/v2/sub-category-v2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="300" column="92" selection-start-line="300" selection-start-column="92" selection-end-line="300" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/sub-category-filtered-v2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77275">
+          <caret line="16" column="186" selection-start-line="16" selection-start-column="186" selection-end-line="16" selection-end-column="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-details.json" />
+    <entry file="file://$PROJECT_DIR$/error.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/failed_url.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/Category.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/SubCategory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixit/spiders/ProductDetails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
